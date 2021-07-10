@@ -6,9 +6,11 @@ The goal of this project was to analyze Amazon reviews written by members of the
 Total Reviews
 -	Vine:  709
 -	Non-Vine: 2,386,061
+
 5 Star Reviews
 -	Vine: 159
 -	Non-Vine: 1,676,546
+
 Percent of 5 Star Reviews
 -	Vine: 22.43%
 -	Non-Vine: 70.26%
